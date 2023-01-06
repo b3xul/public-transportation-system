@@ -1,0 +1,1 @@
+This is the first release of the project at https://github.com/A-short-name/Public-Transportation-Manager. The final version will be released on February.
